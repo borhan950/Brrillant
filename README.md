@@ -1,2 +1,0 @@
-# Brrillant
-QR Code Payment
